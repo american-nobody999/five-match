@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+
+# VS Code editor settings
+.vscode/
+
+# compiled executables and debug files
+1stC
+*.dSYM/
+Ch03Exercise07
+Ch01Exercise13
+Ch01Exercise14
+Ch04Exercise16
+
+
+
+#other configuration files
+.yml
